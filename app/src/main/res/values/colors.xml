@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--common color-->
+
+
+    <!--welcome color-->
+    <color name="welcome_title_color">#fff</color>
+    <color name="welcome_title_color_dot">#52e4c4</color>
+    <color name="welcome_button_color">#52e4c4</color>
+    <color name="welcome_button_text_color">#286759</color>
+    <color name="welcome_footer">#fff</color>
+
+    <!--main color-->
+    <color name="main_background_color">#fff</color>
+    <color name="main_title_color">#fff</color>
+    <color name="main_title_color_bottom">#fff</color>
+    <color name="main_button_color">#52e4c4</color>
+    <color name="main_button_text_color">#286759</color>
+    <color name="main_text_number_color">#fff</color>
+    <color name="main_text_number_color_bottom">#ededed</color>
+    <color name="main_tablayout_underline">#52e4c4</color>
+    <color name="main_tablayout_text_select">#000</color>
+    <color name="main_tablayout_text_noselect">#979797</color>
+
+    <!--sign in-->
+    <color name="signin_normal_color">#fff</color>
+    <color name="signin_title_color">#fff</color>
+    <color name="signin_title_color_bottom">#cad1d4</color>
+    <color name="signin_textview_title_color">#fff</color>
+    <color name="signin_textview_text_color">#000</color>
+    <color name="signin_textview_background_color">#cad4d4</color>
+    <color name="signin_button_color">#52e4c4</color>
+    <color name="signin_button_text_color">#286759</color>
+    <color name="signin_footer">#fff</color>
+</resources>

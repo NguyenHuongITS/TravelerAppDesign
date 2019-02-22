@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TravelerAppDesign</string>
+
+    <!--welcome-->
+    <string name="welcome_title">TRAVELER</string>
+    <string name="welcome_title_dot">.</string>
+    <string name="welcome_title_bottom">Share the Word and become an amazing traveler</string>
+    <string name="welcome_button">Already a member?</string>
+    <string name="welcome_footer"><u>New member</u></string>
+
+
+    <!--sign in-->
+    <string name="title_sign_in">Welcome back!</string>
+    <string name="title_sign_in_bottom">Sign in to continue to Traveler</string>
+    <string name="sign_in_email">Email</string>
+    <string name="sign_in_email_hint">Example@gmail.com</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_password_hint">********</string>
+    <string name="sign_in_forgot_password">Forgot your password?</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_in_footer"><u>Register Now</u></string>
+    <!--main-->
+    <string name="main_name">Nguyen Huong</string>
+    <string name="main_address">Ho Chi Minh City, Vietnam</string>
+    <string name="main_post_number">234</string>
+    <string name="main_button_follow">Follow</string>
+    <string name="main_post_text">Posts</string>
+    <string name="main_followers_number">6789</string>
+    <string name="main_followers_text">Followers</string>
+    <string name="main_following_number">999</string>
+    <string name="main_following_text">Following</string>
+    <string name="main_tab_recent">Recent</string>
+    <string name="main_tab_popular">Popular</string>
+
+</resources>
